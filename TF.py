@@ -20,7 +20,7 @@ def preprocess_text(text):
     return text
 
 # Step 1: Load the dataset
-input_file = 'D:\\Projects\\Python\\train.csv'  # Replace with your actual file path
+input_file = 'D:\\Projects\\Python\\train.csv'  
 output_file = 'D:\\Projects\\Python\\structured_output.csv'
 
 df = pd.read_csv(input_file)
