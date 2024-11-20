@@ -1,0 +1,127 @@
+Basic Information:
+None
+
+Summary Statistics for Numerical Columns:
+                      category  ...  predicted_sub_category
+count                    93686  ...                   93686
+unique                      15  ...                      11
+top     Online Financial Fraud  ...  Online Financial Fraud
+freq                     57434  ...                   45277
+
+[4 rows x 5 columns]
+
+Unique Value Counts for Categorical Columns:
+
+category:
+category
+Online Financial Fraud                                  57434
+Online and Social Media Related Crime                   12140
+Any Other Cyber Crime                                   10878
+Cyber Attack/ Dependent Crimes                           3608
+RapeGang Rape RGRSexually Abusive Content                2822
+Sexually Obscene material                                1838
+Hacking  Damage to computercomputer system etc           1710
+Sexually Explicit Act                                    1552
+Cryptocurrency Crime                                      480
+Online Gambling  Betting                                  444
+Child Pornography CPChild Sexual Abuse Material CSAM      379
+Online Cyber Trafficking                                  183
+Cyber Terrorism                                           161
+Ransomware                                                 56
+Report Unlawful Content                                     1
+Name: count, dtype: int64
+
+sub_category:
+sub_category
+UPI Related Frauds                                                      26856
+Other                                                                   10878
+DebitCredit Card FraudSim Swap Fraud                                    10805
+Internet Banking Related Fraud                                           8872
+Fraud CallVishing                                                        5803
+Cyber Bullying  Stalking  Sexting                                        4089
+EWallet Related Fraud                                                    4047
+FakeImpersonating Profile                                                2299
+Profile Hacking Identity Theft                                           2073
+Cheating by Impersonation                                                1988
+Unauthorised AccessData Breach                                           1114
+Online Job Fraud                                                          912
+DematDepository Fraud                                                     761
+Tampering with computer source documents                                  567
+Hacking/Defacement                                                        540
+Ransomware Attack                                                         534
+Malware Attack                                                            521
+SQL Injection                                                             508
+Denial of Service (DoS)/Distributed Denial of Service (DDOS) attacks      504
+Data Breach/Theft                                                         484
+Cryptocurrency Fraud                                                      480
+Online Gambling  Betting                                                  444
+Provocative Speech for unlawful acts                                      417
+Email Hacking                                                             349
+Business Email CompromiseEmail Takeover                                   290
+Online Trafficking                                                        183
+Cyber Terrorism                                                           161
+EMail Phishing                                                            157
+Online Matrimonial Fraud                                                  132
+Damage to computer computer systems etc                                   108
+Website DefacementHacking                                                  89
+Ransomware                                                                 56
+Impersonating Email                                                        44
+Intimidating Email                                                         29
+Against Interest of sovereignty or integrity of India                       1
+Name: count, dtype: int64
+
+crimeaditionalinfo:
+crimeaditionalinfo
+Respected Sir\r\n\r\nA very serious matter I want to inform you Few person running or involve in some very shamefull activities by using few women at many places of kolkata gariahat ballygunge RUBY HOSPITAL BEHIND area KASBA ANANDAPUR QUEST MALL metropolis mall area ACROPOLISMALL area park circus FORUM MALL ELGIN RD Parkstreet MAIDAN AREA esplanade Garia jadavpur BEHALASAKHERBAZAR JOKA BANSDRONI  Rabindrasadanexide area  HARIDEVPUR triangular park lake mall area rashbehari area TOLLYGUNGE THAKURPUKUR BBD BAG DALHOUSIE AREA  and SALTLAKE\r\n\r\nTheir name \r\nSUBHRO SAHA AMLAN DATTA \r\nIZAZ AHMED Anirban\r\n\r\n\r\nThey officially work in a insurance office hdfclife  a hindustanpark ab gariahat shopping mall st floor beside of reliance trend building near gariahat more  but outside at several places  they involve in some shamefull activities last years\r\n\r\nSir a person SUBHRO SAHA forcefully involve few women employee ex FEMALE employee in such shamefull doing\r\n\r\nAt afternoon evening or after evening or night time they doing this shamefull activities\r\n\r\nMany innocent people are TRAPPED and suffering in such dirty issue for long time\r\nThey are even  to lodge a complain against them because of  threatening and blackmailing ISSUE\r\n\r\n\r\nFrom above  address PLACES and their mobile whatsapp no  you can easily trace and track their all activities You need to investigate Last years detail\r\n\r\n\r\nPlease help    2342
+Financial Fraud                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          234
+Respected Sir\r\n\r\nA very serious matter I want to inform you Few person running or involve in some very shamefull activities by using few women at many places of kolkata gariahat ballygunge RUBY HOSPITAL BEHIND area KASBA ANANDAPUR QUEST MALL metropolis mall area ACROPOLISMALL area park circus FORUM MALL ELGIN RD Parkstreet MAIDAN AREA esplanade Garia jadavpur BEHALA JOKA BANSDRONI  Rabindrasadanexide area  HARIDEVPUR triangular park lake mall area rashbehari area TOLLYGUNGE THAKURPUKUR BBD BAG DALHOUSIE AREA  and SALTLAKE\r\n\r\nTheir name \r\nSUBHRO SAHA AMLAN DATTA \r\nIZAZ AHMED Anirban\r\n\r\n\r\nThey officially work in a insurance office hdfclife  a hindustanpark ab gariahat shopping mall st floor beside of reliance trend building near gariahat more  but outside at several places  they involve in some shamefull activities last years\r\n\r\nSir a person SUBHRO SAHA forcefully involve few women employee ex FEMALE employee in such shamefull doing\r\n\r\nAt afternoon evening or after evening or night time they doing this shamefull activities\r\n\r\nMany innocent people are TRAPPED and suffering in such dirty issue for long time\r\nThey are even  to lodge a complain against them because of  threatening and blackmailing ISSUE\r\n\r\n\r\nFrom above  address PLACES and their mobile whatsapp no  you can easily trace and track their all activities You need to investigate Last years detail\r\n\r\n\r\nPlease help                192
+Fraudulent transaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   173
+financial fraud                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          169
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ... 
+App name  pillai loan\r\n  \r\nI have tried but they are threatening me  They telling that they will send my personal details like aadhar card pan card and photos to my family and friends with bad comments please help us                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               1
+A person called by seeing my olx post and asked me to login phone pay for receiving money by scanning qr codes which he shared via whatsapp he said he is working from Indian army and shared one ID card for my reference and also sent another photo to believe his genuine for payment he send couple of qr codes to receive payment he reached me from multiple mobile numbers phonepay number  whatsapp number   called mobile number  another called mobile number                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   1
+Hps Currency app and website they have open i that all Money was deposited by Google pay today suddenly the application got down n all your hard earned money we have losted i have attached the website from where we were accessing the application n we have all the Google pay no in which v have provided transfer all account no too                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 1
+ADD plot no  bhandari complex kalayan nagar distjalor thanakotwali jalor pincode  se suchna karta mahila preeti bhandari  preetisjainpjgmailcom bataa rahi hai ki mere pass mobile no   se  ko pm par call aaya or suchna karta ko firstcry app par shopping karne ko bola or suchna karta mahila ke google pay no  jo bank of baroda se link h se  kat gaye \r\n\r\n\r\n UPI trans id  jo  time  ko pm \r\n UPI trans id  jo  time  ko pm \r\n UPI trans id  jo  time  ko pm \r\n UPI trans id  jo  time  ko pm\r\n UPI trans id  jo  time  ko pm \r\n UPI trans id  jo  time  ko pm \r\n UPI trans id  jo  time  ko pm\r\n UPI trans id  jo  time  ko pm\r\n UPI trans id  jo  time  ko pm \r\n UPI trans id  jo  time  ko pm \r\n\r\njo suchna karta ke bank ac no  jo bank of baroda IFSC CODE BARBJALORE \r\n\r\n\r\n UPI trans id  jo  time  ko                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      1
+I had continue received random calls and abusive messages in my whatsapp Someone added my number in a unknown facebook group name with  Only Girls  and still getting calls from unknown numbers pls help me and sort out the issue  as soon as possible Thank you                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         1
+Name: count, Length: 85013, dtype: int64
+
+predicted_category:
+predicted_category
+Online Financial Fraud                            45277
+Any Other Cyber Crime                             20602
+Online and Social Media Related Crime             14919
+Hacking  Damage to computercomputer system etc     5786
+Cyber Attack/ Dependent Crimes                     3608
+Cryptocurrency Crime                               1618
+Online Gambling  Betting                           1542
+Online Cyber Trafficking                            151
+Cyber Terrorism                                     132
+Ransomware                                           50
+Report Unlawful Content                               1
+Name: count, dtype: int64
+
+predicted_sub_category:
+predicted_sub_category
+Online Financial Fraud                            45277
+Any Other Cyber Crime                             20602
+Online and Social Media Related Crime             14919
+Hacking  Damage to computercomputer system etc     5786
+Cyber Attack/ Dependent Crimes                     3608
+Cryptocurrency Crime                               1618
+Online Gambling  Betting                           1542
+Online Cyber Trafficking                            151
+Cyber Terrorism                                     132
+Ransomware                                           50
+Report Unlawful Content                               1
+Name: count, dtype: int64
+
+Missing Data Information:
+category                     0
+sub_category              6591
+crimeaditionalinfo          21
+predicted_category           0
+predicted_sub_category       0
+dtype: int64
+
+Duplicate Rows in the Dataset:
+7803
