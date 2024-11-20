@@ -38,9 +38,9 @@ def preprocess_text(text):
 
 
 # Step 1: Load the dataset
-# Correct the file path assignment
-input_file = r'D:\Projects\Python\train.csv'  # Update with your correct file path
-output_file = r'D:\Projects\Python\structured_output.csv'  # Update if needed
+
+input_file = r'D:\Projects\Python\train.csv'  
+output_file = r'D:\Projects\Python\structured_output.csv'  
 
 
 logging.info("Loading dataset from: %s", input_file)
