@@ -1,0 +1,71 @@
+{
+    "Crime Against Women & Children": {
+        "keywords": ["women", "child", "rape", "harassment", "stalking", "bullying", "csam", "obscene", "blackmail", "trafficking"],
+        "subcategories": {
+            "Rape/Gang Rape": ["rape", "gang rape"],
+            "Sexual Harassment": ["sexual harassment", "harass"],
+            "Cyber Stalking": ["cyber stalk", "stalker"],
+            "Cyber Bullying": ["cyber bully", "bully"],
+            "Child Pornography/Child Sexual Abuse Material (CSAM)": ["child porn", "csam"],
+            "Publishing/transmitting obscene material/sexually explicit material": ["obscene material", "sexually explicit"],
+            "Computer-Generated CSAM": ["computer-generated csam", "synthetic child porn"],
+            "Fake Social Media Profile": ["fake social media", "fraudulent profile"],
+            "Cyber Blackmailing & Threatening": ["blackmail", "threaten"],
+            "Online Human Trafficking": ["human trafficking", "cyber trafficking"]
+        }
+    },
+    "Financial Crimes": {
+        "keywords": ["investment scam", "job fraud", "tech support", "romance scam", "impersonation", "sim swap", "sextortion", "aeps fraud", "identity theft", "courier scam", "phishing", "shopping fraud", "advance fee", "real estate fraud"],
+        "subcategories": {
+            "Investment Scam/Trading Scam": ["investment scam", "trading fraud"],
+            "Online Job Fraud": ["job fraud", "employment scam"],
+            "Tech Support/Customer Care Scam": ["tech support scam", "customer care fraud"],
+            "Matrimonial/Romance Scam/Honey Trap": ["romance scam", "honey trap"],
+            "Impersonation of Government Authority/Other than Government Authority": ["impersonate", "fake authority"],
+            "SIM Swap Fraud": ["sim swap", "sim fraud"],
+            "Sextortion through Video Call": ["sextortion", "video call blackmail"],
+            "Aadhaar-enabled Payment System (AePS) Fraud": ["aeps fraud", "aadhaar fraud"],
+            "Identity Theft/Cloning": ["identity theft", "cloning"],
+            "Courier/Parcel Scam": ["courier scam", "parcel fraud"],
+            "Phishing": ["phish", "email fraud", "spoof"],
+            "Online Shopping/E-commerce Frauds": ["online shopping fraud", "ecommerce scam"],
+            "Advance Fee Fraud": ["advance fee", "upfront payment"],
+            "Real Estate/Rental Payment Fraud": ["real estate fraud", "rental scam"]
+        }
+    },
+    "Cyber Attack/Dependent Crimes": {
+        "keywords": ["malware", "ransomware", "hack", "data breach", "tamper", "dos", "ddos"],
+        "subcategories": {
+            "Malware Attack": ["malware", "virus", "trojan"],
+            "Ransomware Attack": ["ransomware", "encrypt files"],
+            "Hacking/Defacement": ["hack", "deface", "breach"],
+            "Data Breach/Theft": ["data breach", "data theft", "leak"],
+            "Tampering with computer source documents": ["tamper", "source code", "modify"],
+            "Denial of Service (DoS)/Distributed Denial of Service (DDoS) attacks": ["dos", "ddos", "service attack"]
+        }
+    },
+    "Other Cyber Crimes": {
+        "keywords": ["fake profile", "phishing", "cyber terror", "social media hack", "gambling", "email compromise", "provocative speech", "matrimonial scam", "fake news", "cyber stalking", "defamation", "cyber pornography", "obscene", "ipr theft", "human trafficking", "blackmail", "piracy", "spoof", "cyber slavery"],
+        "subcategories": {
+            "Fake profile": ["fake profile", "fraudulent account"],
+            "Phishing": ["phish", "email fraud", "spoof"],
+            "Cyber Terrorism": ["cyber terror", "terrorist"],
+            "Social Media Account Hacking": ["social media hack", "account takeover"],
+            "Online Gambling/Betting Fraud": ["gambling", "betting fraud"],
+            "Business Email Compromise/Email Takeover": ["email compromise", "email takeover"],
+            "Provocative Speech for unlawful acts": ["provocative speech", "unlawful act"],
+            "Matrimonial/Honey Trapping Scam": ["matrimonial scam", "honey trap"],
+            "Fake News": ["fake news", "false information"],
+            "Cyber Stalking/Bullying": ["cyber stalk", "cyber bully"],
+            "Defamation": ["defame", "character assassination"],
+            "Cyber Pornography": ["cyber porn", "online pornography"],
+            "Sending obscene material": ["obscene", "sexually explicit"],
+            "Intellectual Property (IPR) Thefts": ["ipr theft", "copyright violation"],
+            "Cyber Enabled Human Trafficking": ["human trafficking", "cyber trafficking"],
+            "Cyber Blackmailing & Threatening": ["blackmail", "threaten"],
+            "Online Piracy": ["piracy", "illegal download"],
+            "Spoofing": ["spoof", "fake identity"],
+            "Cyber Slavery": ["cyber slavery", "forced labor"]
+        }
+    }
+}
